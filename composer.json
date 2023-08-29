@@ -1,0 +1,15 @@
+{
+    "name": "levin/hexlet-php",
+    "autoload": {
+        "psr-4": {
+            "Levin\\HexletPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Levin-Alexey",
+            "email": "levin.penza@yandex.ru"
+        }
+    ],
+    "require": {}
+}
